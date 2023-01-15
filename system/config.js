@@ -30,7 +30,7 @@ global.version = '2.2.2',
 // Bot name
 global.botname = `© HanBotz`
 // Footer text
-global.footer = 'Donation for .owner :)'
+global.footer = 'Donation\nhttps://saweria.co/hanbotz'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),
